@@ -32,3 +32,8 @@ If you just want to use it or looking for setup file, click here to download:
 [Classic Shell - Custom Start Buttons](https://coddec.github.io/Classic-Shell/www.classicshell.net/tutorials/buttontutorial.html)  
 [Questions? Ask on the Discussions section](https://github.com/Open-Shell/Open-Shell-Menu/discussions) or on [Discord](https://discord.gg/7H6arr5)  
 [Report a bug/issue or submit a feature request](https://github.com/Open-Shell/Open-Shell-Menu/issues)
+
+
+### Copyright
+If, for any reason, you would like to send a copyright claim, please send it to the following email address:
+squidui-copyright@outlook.com
